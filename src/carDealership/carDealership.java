@@ -111,7 +111,7 @@ public class carDealership {
 			System.out.println("Invalid");
 		}
 		
-		System.out.println(str2);
+		
 		
 		
 		
