@@ -106,10 +106,6 @@ public class carDealership {
 			
 		}
 		
-		else
-		{
-			System.out.println("Invalid");
-		}
 		
 		
 		
